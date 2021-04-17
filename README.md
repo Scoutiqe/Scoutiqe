@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Scoutiqe
+- 🌍 I’m from Poland.
 - 👀 I’m interested in Programming and Technologies.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Open Source, multilanguage projects.
