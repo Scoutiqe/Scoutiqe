@@ -7,6 +7,8 @@
 - 📫 How to reach me: [Telegram](https://t.me/Scoutiqe).
 - 🌐 I’m also on [Crowdin](https://crowdin.com/profile/scoutiqe).
 
+❔ If you are have any questions, please create new [Discussion](https://github.com/Scoutiqe/Scoutiqe/discussions/categories/q-a).
+
 <!---
 Scoutiqe/Scoutiqe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
